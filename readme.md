@@ -10,8 +10,7 @@
 ---
 
 <div>
-<h4>👨🏻‍💻 GitHub Usage stats</h4>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jniyaz&count_private=true&include_all_commits=true" />  
+<h4>👨🏻‍💻 GitHub Stats</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jniyaz&layout=compact" />
 </div>
 
