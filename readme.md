@@ -1,6 +1,5 @@
 ### Hi 👋
 
-Works with,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-f7322f?style=flat&logoColor=fff&logo=Laravel)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJs-53abad?logo=react)&nbsp;
