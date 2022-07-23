@@ -1,13 +1,25 @@
-### Hi 👋
+### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-f7322f?style=flat&logoColor=fff&logo=Laravel)&nbsp;
-![React](https://img.shields.io/badge/-ReactJs-53abad?logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next.js-5380ad?style=flat&logoColor=fff&logo=next.js)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+### Technologies
+
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/-React.js-000?&logo=React.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=Alpine.js)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 
 <!-- <center>
   <table>
