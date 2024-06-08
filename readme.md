@@ -1,4 +1,4 @@
-### Languages
+### My languages and tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -6,8 +6,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Technologies
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Express](https://img.shields.io/badge/-express-000?&logo=express)
@@ -23,6 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
 
+<!--
 <center>
   <table>
     <tr>
@@ -31,3 +30,4 @@
     </tr>  
   </table>
 </center>
+-->
