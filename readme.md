@@ -1,11 +1,13 @@
 ### My languages and tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Go](https://img.shields.io/badge/-go-000?&logo=go)
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Express](https://img.shields.io/badge/-express-000?&logo=express)
@@ -18,8 +20,9 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
+![Tailwind](https://img.shields.io/badge/-tailwind-000?&logo=tailwindcss)
+![Vuetify](https://img.shields.io/badge/-vuetify-000?&logo=vuetify)
+
 
 <!--
 <center>
