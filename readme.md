@@ -15,6 +15,7 @@
 ![Next.js](https://img.shields.io/badge/-Next-000?&logo=Next.js)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt.js)
+![Quasar.js](https://img.shields.io/badge/-Quasar-000?&logo=Quasar)
 ![Alpine.js](https://img.shields.io/badge/-Alpine-000?&logo=Alpine.js)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
@@ -22,7 +23,7 @@
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=vuetify)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![AWS](https://img.shields.io/badge/-Aws-000?&logo=amazon)
-![GCP](https://img.shields.io/badge/-GCp-000?&logo=google-cloud)
+![GCP](https://img.shields.io/badge/-Gcp-000?&logo=google-cloud)
 
 <!--
 <center>
